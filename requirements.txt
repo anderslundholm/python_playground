@@ -1,5 +1,6 @@
 appdirs==1.4.3
 asn1crypto==0.24.0
+astroid==2.3.0
 asyncssh==1.18.0
 attrs==19.1.0
 Automat==0.7.0
@@ -15,6 +16,7 @@ cssselect==1.1.0
 cycler==0.10.0
 defusedxml==0.6.0
 Django==2.2.5
+django-cors-headers==3.1.1
 djangorestframework==3.10.3
 docker==4.0.2
 elasticsearch==7.0.4
@@ -29,13 +31,16 @@ importlib-metadata==0.23
 incremental==17.5.0
 ipaddress==1.0.22
 isodate==0.6.0
+isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.10.1
 kafka-python==1.4.6
 kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
 lxml==4.4.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
+mccabe==0.6.1
 more-itertools==7.2.0
 mysqlclient==1.4.4
 ntlm-auth==1.4.0
@@ -54,6 +59,7 @@ pyasn1-modules==0.2.6
 pycparser==2.19
 PyDispatcher==2.0.5
 PyHamcrest==1.9.0
+pylint==2.4.1
 pymongo==3.9.0
 PyMySQL==0.9.3
 pyOpenSSL==19.0.0
@@ -80,11 +86,13 @@ sqlparse==0.3.0
 toml==0.10.0
 tox==3.14.0
 Twisted==19.7.0
+typed-ast==1.2.0
 urllib3==1.25.3
 virtualenv==16.7.5
 w3lib==1.21.0
 websocket-client==0.56.0
 Werkzeug==0.15.6
+wrapt==1.11.2
 WTForms==2.2.1
 zeep==3.4.0
 zipp==0.6.0
