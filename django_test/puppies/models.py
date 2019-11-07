@@ -16,5 +16,8 @@ class Puppy(models.Model):
     def get_breed(self):
         return self.name + ' belongs to ' + self.breed + ' breed.'
 
+    def __str__(self):
+        return '{}({})'.format(self.name, self.pk)
+
     def __repr__(self):
-        return self.name + ' is added.'
+        return self.name
