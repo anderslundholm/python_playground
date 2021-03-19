@@ -23,7 +23,7 @@ dataclasses==0.7
 defusedxml==0.6.0
 Django==2.2.8
 django-cors-headers==3.1.1
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 dnspython==1.16.0
 docker==4.0.2
 elasticsearch==7.0.4
