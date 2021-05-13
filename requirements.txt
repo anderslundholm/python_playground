@@ -72,7 +72,7 @@ py==1.8.0
 pyasn1==0.4.7
 pyasn1-modules==0.2.6
 pycparser==2.19
-pydantic==0.32.2
+pydantic==1.6.2
 PyDispatcher==2.0.5
 PyHamcrest==1.9.0
 pylint==2.4.1
