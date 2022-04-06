@@ -104,7 +104,7 @@ sqlparse==0.3.0
 starlette==0.12.9
 toml==0.10.0
 tox==3.14.0
-Twisted==19.7.0
+Twisted==22.2.0
 ujson==1.35
 typed-ast==1.2.0
 urllib3==1.25.3
